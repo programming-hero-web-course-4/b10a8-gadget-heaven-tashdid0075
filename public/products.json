@@ -1,0 +1,173 @@
+[
+    {
+      "product_id": "P001",
+      "product_title": "Apple iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co.com/6NtBGgP/i-Phone-15-Plus-2-1-6945.jpg",
+      "category": "Smartphones",
+      "price": 1299,
+      "description": "The ultimate smartphone with cutting-edge technology.",
+      "specification": [
+        "6.7-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "Triple-camera system",
+        "LiDAR Scanner",
+        "Up to 2TB storage"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/rt18fsB/images-q-tbn-ANd9-Gc-Tv-GJx-Po-E-X50ct-Yk5j-GQ2-Py-Sx-Lui0yci1-Xhw-s.jpg",
+      "category": "Smartphones",
+      "price": 1199,
+      "description": "A premium smartphone with exceptional camera features.",
+      "specification": [
+        "6.8-inch AMOLED display",
+        "Snapdragon 8 Gen 2 processor",
+        "200MP camera",
+        "S Pen support",
+        "5,000mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://i.ibb.co.com/h7DrC6J/Google-Pixel-8-Pro-2-featured-image-packshot-review-Recovered.jpg",
+      "category": "Smartphones",
+      "price": 999,
+      "description": "The smartest phone with advanced AI features.",
+      "specification": [
+        "6.7-inch LTPO OLED display",
+        "Google Tensor G3 chip",
+        "50MP wide camera",
+        "Face unlock",
+        "Titan M2 security chip"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P004",
+      "product_title": "OnePlus 11 Pro",
+      "product_image": "https://i.ibb.co.com/yRw2ZfH/One-Plus-11-1-7783.jpg",
+      "category": "Smartphones",
+      "price": 899,
+      "description": "A high-performance smartphone for tech enthusiasts.",
+      "specification": [
+        "6.7-inch AMOLED display",
+        "Snapdragon 8 Gen 2 processor",
+        "Triple-camera system",
+        "HyperBoost gaming mode",
+        "5,000mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P005",
+      "product_title": "Xiaomi 13 Pro",
+      "product_image": "https://i.ibb.co.com/5L3xS9F/Xiaomi-13-Pro-Ceramic-White-4073.jpg",
+      "category": "Smartphones",
+      "price": 799,
+      "description": "An affordable flagship smartphone with powerful features.",
+      "specification": [
+        "6.6-inch AMOLED display",
+        "Snapdragon 8 Gen 1 processor",
+        "108MP main camera",
+        "Fast charging",
+        "4,800mAh battery"
+      ],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Sony Xperia 1 V",
+      "product_image": "https://i.ibb.co.com/D76N4mW/Sony-Xperia-1-V.jpg",
+      "category": "Smartphones",
+      "price": 1099,
+      "description": "The best smartphone for multimedia creators.",
+      "specification": [
+        "6.5-inch OLED display",
+        "Snapdragon 8 Gen 2 processor",
+        "4K HDR video recording",
+        "Cinematic color accuracy",
+        "5,000mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "P007",
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://i.ibb.co.com/zSNKj6q/5318-55349.jpg",
+      "category": "Headphones",
+      "price": 399,
+      "description": "Industry-leading noise-canceling headphones.",
+      "specification": [
+        "Dual Noise Sensor technology",
+        "30 hours of battery life",
+        "Touch sensor controls",
+        "Quick charging support",
+        "Comfortable fit"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Bose QuietComfort Earbuds II",
+      "product_image": "https://i.ibb.co.com/9bFSVTM/Bose-Quiet-Comfort-Ultra-Headphones-Black-8357.jpg",
+      "category": "Headphones",
+      "price": 299,
+      "description": "Compact earbuds with premium noise cancellation.",
+      "specification": [
+        "CustomTune technology",
+        "6 hours of battery life",
+        "Water resistance (IPX4)",
+        "Bluetooth 5.3",
+        "Lightweight design"
+      ],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P009",
+      "product_title": "Apple Watch Series 9",
+      "product_image": "hhttps://i.ibb.co.com/Kyd8vdR/Apple-Watch-Series-9-4-7054.jpg",
+      "category": "Smartwatches",
+      "price": 499,
+      "description": "The most advanced Apple Watch yet.",
+      "specification": [
+        "Always-On Retina display",
+        "Blood oxygen sensor",
+        "ECG monitoring",
+        "S9 chip",
+        "Fitness tracking"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P010",
+      "product_title": "Garmin Fenix 7X",
+      "product_image": "https://i.ibb.co.com/0nLh8hR/cf-lg-8ed6f53a-a30c-421b-8106-2d0675713fa1.jpg",
+      "category": "Smartwatches",
+      "price": 699,
+      "description": "The ultimate smartwatch for outdoor adventures.",
+      "specification": [
+        "1.4-inch sunlight-readable display",
+        "Multi-band GPS",
+        "37 days of battery life",
+        "Rugged design",
+        "Heart rate monitor"
+      ],
+      "availability": true,
+      "rating": 4.7
+    }
+  ]
+  
