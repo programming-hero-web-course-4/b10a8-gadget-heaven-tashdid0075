@@ -58,8 +58,8 @@ const Dashboard = () => {
                 <h2 className="text-3xl font-bold">Dashboard</h2>
                 <p>Explore the latest gadgets that will take your experience to the next level. From smart devices to the coolest accessories, we have it all!</p>
                 <div className="mt-3 space-x-2">
-                    <button onClick={handleCart} className={`btn rounded-2xl btn-outline text-white ${cart ? "bg-white text-purple-500" : ""}`}>Cart</button>
-                    <button onClick={handleWishlist} className={`btn rounded-2xl btn-outline text-white ${!cart ? "bg-white text-purple-500" : ""}`}>Wishlist</button>
+                    <button onClick={handleCart} className={`btn rounded-2xl btn-outline text-white ${cart ? "bg-white text-purple-800" : ""}`}>Cart</button>
+                    <button onClick={handleWishlist} className={`btn rounded-2xl btn-outline text-white ${!cart ? "bg-white text-purple-800" : ""}`}>Wishlist</button>
                 </div>
             </div>
             {
