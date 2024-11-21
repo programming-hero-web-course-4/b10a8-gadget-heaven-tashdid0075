@@ -1,7 +1,10 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useLocation } from 'react-router-dom';
 
 const Navbar = () => {
+
+    
+    const home = useLocation().pathname === "/";
 
     const links = <>
         <li>
@@ -19,7 +22,7 @@ const Navbar = () => {
             }>Statistics</NavLink>
         </li>
         <li>
-            <NavLink to="/dashboard" cclassName={({ isActive }) =>
+            <NavLink to="/dashboard" className={({ isActive }) =>
                 `hover:bg-purple-100 active:bg-purple-400 ${isActive ? 'bg-purple-400' : ''}`
             }>Dashboard</NavLink>
         </li>
@@ -31,7 +34,7 @@ const Navbar = () => {
 
     </>
     return (
-        <div className="navbar bg-base-100">
+        <div className={`navbar ${home ? "bg-purple-600 text-white" : "bg-base-100" }`}>
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
